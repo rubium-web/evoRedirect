@@ -1,12 +1,12 @@
 # evoRedirect
 
-![PHP version](https://img.shields.io/badge/PHP->=v5.6-green.svg?php=5.6)    [![GitHub release](https://img.shields.io/github/release/evolution-cms/evolution.svg)](https://github.com/rubium-web/evoRedirect)
+[![GitHub license](https://img.shields.io/github/license/rubium-web/evoRedirect.svg)](https://github.com/rubium-web/evoRedirect/blob/master/LICENSE) ![PHP version](https://img.shields.io/badge/PHP->=v5.6-green.svg?php=5.6)    [![GitHub release](https://img.shields.io/github/release/rubium-web/evoRedirect.svg)](https://github.com/rubium-web/evoRedirect) [![GitHub issues](https://img.shields.io/github/issues/rubium-web/evoRedirect.svg)](https://github.com/rubium-web/evoRedirect/issues)
 
 evoRedirect requires **PHP >= 5.6**
 
 ## What is EVO
 
-**evoRedirect** is an open source Content Management System and Application Framework.
+**evoRedirect** Модуль управления короткими ссылками и редиректами для Evolution cms
 
 ## License
 
@@ -17,8 +17,6 @@ evoRedirect requires **PHP >= 5.6**
 Download:
 https://github.com/rubium-web/evoRedirect
 
-Previous Releases:
-https://modx.com/download/evolution/previous-releases.html
 
 Extras:
 https://extras.evolution-cms.com

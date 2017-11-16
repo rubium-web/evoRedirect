@@ -3,8 +3,8 @@
 /**
  *
  * @name evoRedirect module for MODx Evo
- * @version 0.0.1
- * @author Rubium_Team <assmay@dm100.ru>
+ * @version 1.0
+ * @author Rubium_Team <rubium@webu>
  *
  */
 
