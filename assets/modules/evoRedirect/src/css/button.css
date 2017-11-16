@@ -1,0 +1,97 @@
+.open_evoRedirect_window {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer!important;
+    vertical-align: middle;
+    margin-bottom: .15rem;
+    text-align: center;
+    line-height: 1rem;
+    background: white;
+}
+
+.open_evoRedirect_window:after {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f277";
+    color: #0275d8;
+}
+.modal_evoRedirect_wrapper {
+    position: relative;
+}
+
+.modal_evoRedirect_content {
+    position: absolute;
+    bottom: 100%;
+    left: 0px;
+    width: 12rem;
+    height: 1.5rem;
+    background: #fafafa;
+    z-index: 12;
+}
+.input_evoRedirect_code {
+    width: calc(100% - 20px)!important;
+    height: 1.5rem!important;
+    min-height: auto!important;
+    padding: 2px!important;
+    font-size: 11px!important;
+}
+
+.modal_evoRedirect_content {
+    display: flex;
+}
+
+.submit_evoRedirect_code {
+    height: 1.5rem!important;
+    background: #5cb85c!important;
+    border: 0px!important;
+    box-shadow: inset 0px 0px 1px 1px rgba(0, 0, 0, 0.24);
+}
+
+.aliaswrapper {
+    position: relative;
+}
+
+a.open_evoRedirect_window {
+    position: absolute;
+       right: 1.2rem;
+    top: 3px;
+}
+
+.open_evoRedirect_window:after {
+    color: #6d6868;
+    background: #e2e2e2;
+    font-size: 8px;
+    border-radius: 100%;
+    padding: 3px;
+    content: "\f0c1";
+}
+
+a.open_evoRedirect_window:hover:after {
+    background: #1d2023;
+    color: #fff;
+}
+.submit_evoRedirect_code:after {
+    content: "\f0c7";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    top: 5px;
+    left: 7px;
+    font-size: 14px;
+    color: #fff;
+}
+.modal_evoRedirect_content {
+    border: 7px rgb(238, 238, 238) solid;
+    box-sizing: content-box;
+    border-radius: 2px;
+    margin-left: -7px;
+}
